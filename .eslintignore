@@ -2,3 +2,8 @@
 **/node_modules
 **/bower_components
 **/lib
+<<<<<<< HEAD
+=======
+**/vendor
+**/*.min.js
+>>>>>>> 3c6beef66b7f03e16288822357fc9b4e70242fa2
